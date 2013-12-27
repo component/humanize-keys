@@ -1,0 +1,14 @@
+{
+  "name": "humanize-keys",
+  "repo": "component/humanize-keys",
+  "description": "humanize key names (left -> ←)",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
