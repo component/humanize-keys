@@ -1,7 +1,8 @@
 
 # humanize-keys
 
-  humanize key names such as "command" and turn them into nice terse unicode chars ⌘
+  Humanize key names such as "command" and turn them into nice terse unicode chars ⌘. Shitty name
+  for this module since ⌘ is arguably less human-readable, but fuck it. AINT GOT TIME FOR DAT
 
 ## Installation
 
