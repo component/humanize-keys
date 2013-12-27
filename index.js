@@ -1,6 +1,7 @@
 var map = {
   command: '⌘',
   shift: '⇧',
+  capslock: '⇪',
   ctrl: '⌃',
   alt: '⌥',
   left: '←',
