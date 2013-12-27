@@ -1,11 +1,14 @@
-
 var map = {
   command: '⌘',
   shift: '⇧',
   ctrl: '⌃',
   alt: '⌥',
   left: '←',
-  right: '→'
+  right: '→',
+  top: '↑',
+  bottom: '↓',
+  'return': '↩',
+  backspace: '⌫'
 };
 
 module.exports = function(key){
