@@ -2,7 +2,7 @@
   "name": "humanize-keys",
   "repo": "component/humanize-keys",
   "description": "humanize key names (left -> ←)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": ["keys", "humanize", "shortcuts", "keyboard", "unicode"],
   "dependencies": {},
   "development": {},
